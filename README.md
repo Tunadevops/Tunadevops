@@ -1,14 +1,18 @@
 
 👋 **Just a Tech**  
 
-🏢 **Company:** Tuna Technology  
+🏢 **Company:** Tuna Technology
+
 🌍 **Location:** Butwal, Nepal 
+
 📞 **Phone:** +977 9811448763
+
 📧 **Email:** 
   - bsharad740@gmail.com
   - devops@tunatechnology.com
 
 
+**What I am doing ?**
 - Automating infrastructure
 - Optimizing workflows.
 - Improving CI/CD pipelines
