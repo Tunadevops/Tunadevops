@@ -1,5 +1,6 @@
+# Hello World ! 
 
-👋 **Just a Tech**  
+👋 **It's me. Just a Tech**  
 
 🏢 **Company:** Tuna Technology
 
