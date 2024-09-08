@@ -18,7 +18,7 @@
 - Optimizing workflows.
 - Improving CI/CD pipelines
 - Developing Cloud.
-- Solving basic problems
+- Solving complex problems
 - Loving technologies
 - Working at Tuna Technology
 - Streamlining deployments
